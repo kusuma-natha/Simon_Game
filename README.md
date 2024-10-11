@@ -51,8 +51,5 @@ Defines the basic structure with a title, instructions, and buttons for each col
 
 2. Open the index.html file in a web browser to play the game.
 
-# Installation
-- Clone the repository, and open the index.html file in your browser to play.
-
-# License
+## License
 - This project is open-source under the MIT License.
